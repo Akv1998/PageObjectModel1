@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+<suite name="Page Object Model Framework">
+    
+   
+    
+  
+  
+   <test name="Login Test">
+    
+    <classes>
+      <class name="testcases.LoginTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="UploadPhoto Test">
+    
+    <classes>
+      <class name="testcases.UploadPicTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+  
+  
+</suite> <!-- Suite -->
